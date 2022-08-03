@@ -8,7 +8,7 @@ this repo have a step by step to create a USB bootable flash to install Ubuntu
  - Software to create bootable flash 
 
 ## step1
-download any Lunix flavor  for UBUNTU use this [link](https://ubuntu.com/download/desktop) 
+download any Lunix flavor  for UBUNTU use this :point_right: [link](https://ubuntu.com/download/desktop) 
 
 ***NOTE:** you can download any flovor of Lunix , make sure that uou have a ISO file. 
 ## Step2
