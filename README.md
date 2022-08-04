@@ -18,6 +18,7 @@ USBImager
 =========
 
 <img src="https://gitlab.com/bztsrc/usbimager/raw/master/src/misc/icon32.png">
+
 [USBImager](https://bztsrc.gitlab.io/usbimager) is a really really simple GUI application that writes compressed disk images to USB drives
 and creates backups. Available platforms: Windows, MacOSX and Linux. Its interface is as simple as it gets, totally bloat-free..  [Video Link](https://www.youtube.com/watch?v=0xuP1GQLPpI)
 
