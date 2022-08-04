@@ -8,7 +8,11 @@ this repo have a step by step to create a USB bootable flash to install Ubuntu
  - Software to create bootable flash 
 
 ## step1
-download any Lunix flavor  for UBUNTU use this :point_right: [link](https://ubuntu.com/download/desktop)  or you can go for **USBImager** below is the link to download and a video of how to create a bootable flash :
+download any Lunix flavor  for UBUNTU use this :point_right: [link](https://ubuntu.com/download/desktop)  or you can go for any other Lunix Distribution 
+
+## Step2
+
+download a software to make a bootable key . there are couple free tool available on internet . ***REFUS** is one of then . Use this link :point_right: [link](https://rufus.ie/en/) to download  REFUS  or you can go for **USBImager**. below is the link to download and a video of how to create a bootable flash using **USBImager**:
 
 USBImager
 =========
@@ -18,6 +22,4 @@ USBImager
 and creates backups. Available platforms: Windows, MacOSX and Linux. Its interface is as simple as it gets, totally bloat-free..  [Video Link](https://www.youtube.com/watch?v=0xuP1GQLPpI)
 
 ***NOTE:** you can download any flovor of Lunix , make sure that uou have a ISO file. 
-## Step2
 
-download any ***REFUS** using this link :point_right: [link](https://rufus.ie/en/) 
